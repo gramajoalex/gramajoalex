@@ -18,6 +18,8 @@
 #### 📞WhatsApp: (+54) 9 11 55255541
 #### 📧E-mail: gramajo.alex@outlook.com.ar
 
+#### Tambien podés visitar mi perfil de [LinkedIn](https://www.linkedin.com/in/gramajoalex/)
+
 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 <!--
 **gramajoalex/gramajoalex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
