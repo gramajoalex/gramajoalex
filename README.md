@@ -11,7 +11,6 @@
 ### Backend
 * TypeScript | Node | Express | Sequelize | GraphQL | PostgreSQL | MongoDB
 
-#### Actualmente estoy prácticando Typescript, pero me gustaría seguir desarrollando APIs con GraphQL (esta tecnología me encanta) y aprender mucho más de JAVA.
 #### **Siempre intento implementar la mayor cantidad de buenas prácticas posibles*
 ## Contacto
 ### Si te gustaría trabajar o comunicarte conmigo, podés contactarme por estos medios
