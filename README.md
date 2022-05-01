@@ -1,7 +1,7 @@
 ### Hi there 👋
 # Mi nombre es Alex Gramajo
 ### Soy desarrollador web fullstack pero me gusta mucho trabajar en el backend.
-### Estoy finalizando el bootcamp de Soy Henry, el cual me enseñó una gran cantidad de tecnologías de desarrollo web y también estudio de manera autodidacta ya sea en cursos, libros o documentaciones. Intento mejorar siempre como desarrollador y persona, disfruto de tener nuevos desafíos y aprender cosas nuevas. Me encuentro buscando mi primer trabajo como desarrollador de software
+### Finalicé el bootcamp de Soy Henry, el cual me enseñó una gran cantidad de tecnologías de desarrollo web y también estudio de manera autodidacta ya sea en cursos, libros o documentaciones. Intento mejorar siempre como desarrollador y persona, disfruto de tener nuevos desafíos y aprender cosas nuevas. Me encuentro buscando mi primer trabajo como desarrollador de software
 
 
 
