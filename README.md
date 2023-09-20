@@ -10,6 +10,10 @@
 * HTML | CSS | JavaScript | Angular | React | Redux | SASS | Bootstrap
 ### Backend
 * TypeScript | Node.js | Express.js | NestJS | Sequelize | GraphQL | PostgreSQL | MongoDB | MySQL
+### Cloud
+* Estudiando AWS Certified Solutions Architect - Associate
+### Otras herramientas
+* Docker, Kubernetes, Jira, Slack, Scrum
 
 ## Contacto
 ### Podés contactarme por estos medios
