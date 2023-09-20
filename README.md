@@ -7,7 +7,7 @@
 
 ## Tecnologías que manejo
 ### Frontend 
-* HTML | CSS | JavaScript | React | Redux | SASS | Bootstrap
+* HTML | CSS | JavaScript | Angular | React | Redux | SASS | Bootstrap
 ### Backend
 * TypeScript | Node.js | Express.js | NestJS | Sequelize | GraphQL | PostgreSQL | MongoDB | MySQL
 
